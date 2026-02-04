@@ -14,10 +14,3 @@ const eslintConfig = defineConfig([
 ]);
 
 export default eslintConfig;
-
-// {
-//   "extends": "next/core-web-vitals",
-//     "rules": {
-//     "@next/next/no-img-element": "off"
-//   }
-// }
